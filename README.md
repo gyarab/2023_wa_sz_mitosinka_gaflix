@@ -1,8 +1,10 @@
-# 2023_wa_sz_mitosinka_gaflix
+# 2023_wa_sx_chalupnicek_gaflix
 
-git clone
+```
+git clone git@github.com:gyarab/2023_wa_sx_chalupnicek_gaflix.git
+cd 2023_wa_sx_chalupnicek_gaflix/
 py -3 -m venv venv
-$source ./venv/Scripts/activate
-
-udelat requirements.txt, napsat django
+source ./venv/Scripts/activate
 pip install -r requirements.txt
+
+```
