@@ -1,4 +1,4 @@
-# 2023_wa_sx_chalupnicek_gaflix
+# 2023_wa_sz_mitosinka_gaflix
 
 ```
 py -3 -m venv venv
