@@ -3,50 +3,50 @@
       "model": "filmy.movie",
       "pk": 1,
       "fields": {
-          "title": "Pulp Fiction",
-          "release_year": 1994,
+          "name": "Pulp Fiction",
+          "year": 1994,
           "description": "Two mob hitmen, a boxer, a pair of diner bandits, and a pair of philosophical hitmen converge in a series of interconnected stories.",
-          "duration": 154
+          "footage": 154
       }
   },
   {
       "model": "filmy.movie",
       "pk": 2,
       "fields": {
-          "title": "The Shawshank Redemption",
-          "release_year": 1994,
+          "name": "The Shawshank Redemption",
+          "year": 1994,
           "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-          "duration": 142
+          "footage": 142
       }
   },
   {
       "model": "filmy.movie",
       "pk": 3,
       "fields": {
-          "title": "The Dark Knight",
-          "release_year": 2008,
+          "name": "The Dark Knight",
+          "year": 2008,
           "description": "When the Joker wreaks havoc on Gotham City, Batman must use all his skills to stop him and restore order.",
-          "duration": 162
+          "footage": 162
       }
   },
   {
       "model": "filmy.movie",
       "pk": 4,
       "fields": {
-          "title": "Inception",
-          "release_year": 2010,
+          "name": "Inception",
+          "year": 2010,
           "description": "A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
-          "duration": 148
+          "footage": 148
       }
   },
   {
       "model": "filmy.movie",
       "pk": 5,
       "fields": {
-          "title": "The Lord of the Rings: The Fellowship of the Ring",
-          "release_year": 2001,
+          "name": "The Lord of the Rings: The Fellowship of the Ring",
+          "year": 2001,
           "description": "A hobbit, a wizard, a dwarf, and a human form an unlikely fellowship to destroy the One Ring and save Middle-earth from darkness.",
-          "duration": 178
+          "footage": 178
       }
   }
 ]
