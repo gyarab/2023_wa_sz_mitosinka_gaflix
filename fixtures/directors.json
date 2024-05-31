@@ -1,47 +1,42 @@
 [
-  {
+    {
       "model": "filmy.director",
       "pk": 1,
       "fields": {
-          "first_name": "Quentin",
-          "last_name": "Tarantino",
-          "birth_date": "1963-03-27"
+        "name": "Joseph Kosinski",
+        "birth_year": 1974,
+        "description": "",
+        "main_picture": ""
       }
-  },
-  {
+    },
+    {
       "model": "filmy.director",
       "pk": 2,
       "fields": {
-          "first_name": "Christopher",
-          "last_name": "Nolan",
-          "birth_date": "1970-07-30"
+        "name": "Andrew Adamson",
+        "birth_year": 1966,
+        "description": "",
+        "main_picture": ""
       }
-  },
-  {
+    },
+    {
       "model": "filmy.director",
       "pk": 3,
       "fields": {
-          "first_name": "Peter",
-          "last_name": "Jackson",
-          "birth_date": "1961-10-31"
+        "name": "Quentin Tarantino",
+        "birth_year": 1963,
+        "description": "",
+        "main_picture": ""
       }
-  },
-  {
+    },
+    {
       "model": "filmy.director",
       "pk": 4,
       "fields": {
-          "first_name": "Martin",
-          "last_name": "Scorsese",
-          "birth_date": "1942-11-17"
+        "name": "David Fincher",
+        "birth_year": 1962,
+        "description": "",
+        "main_picture": ""
       }
-  },
-  {
-      "model": "filmy.director",
-      "pk": 5,
-      "fields": {
-          "first_name": "James",
-          "last_name": "Cameron",
-          "birth_date": "1954-08-16"
-      }
-  }
-]
+    }
+  ]
