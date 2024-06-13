@@ -1,0 +1,13 @@
+{% extends 'filmy/base.html' %}
+
+{% block 'title' %}{{ block.super }} - {{ actor.name }}{% endblock %}
+
+{% block 'content' %}
+    <h1> {{actor.name}}</h1>
+    
+
+    <img class="card-img-top" src="{{actor.main_picture}} " alt="Card image cap">
+
+    <p>{{actor.description}}</p>
+
+{% endblock %}
