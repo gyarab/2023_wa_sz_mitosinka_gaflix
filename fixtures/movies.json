@@ -1,0 +1,128 @@
+[
+{
+  "model": "filmy.movie",
+  "pk": 1,
+  "fields": {
+    "name": "Sabina in Wonderland",
+    "year": 2024,
+    "footage": 180,
+    "description": "When the whimsical and imaginative Sabina, a curious and adventurous young woman, stumbles upon a hidden portal in her grandmother's attic, she is transported to a fantastical realm known as Wonderland. Unlike the Wonderland from fairy tales, this one is a mysterious and surreal world filled with eccentric characters, mind-bending landscapes, and a touch of danger. Sabina embarks on an extraordinary journey to uncover the secrets of this strange land, encountering talking animals, mischievous spirits, and a quirky guide named Horatio, who becomes both friend and mentor. As Sabina navigates the challenges and wonders of Wonderland, she discovers the strength within herself to confront her deepest fears and uncover the truth about her family's past. \"Sabina in Wonderland\" is a visually stunning and emotionally uplifting tale that reminds us that the greatest adventures often begin with a single step into the unknown.",
+    "main_picture": "",
+    "director": 1,
+    "actors": [
+      1,
+      3
+    ],
+    "genres": [
+      2,
+      4,
+      7,
+      8
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 2,
+  "fields": {
+    "name": "Seba on cestách",
+    "year": 1978,
+    "footage": 106,
+    "description": "Meet Seba, an energetic and curious young man with an insatiable thirst for adventure. \"Seba on cestách\" follows his journey as he travels across the globe, exploring new cultures, tasting exotic foods, and meeting fascinating people. Each episode brings Seba to a different country, where he dives deep into local traditions, tackles unique challenges, and learns valuable life lessons. With his trusty backpack and a heart full of wanderlust, Seba’s travels are not just about seeing new places, but about connecting with the world in meaningful ways. Join Seba on this inspiring and visually captivating journey that celebrates the spirit of exploration and the joy of discovering the unknown.",
+    "main_picture": "",
+    "director": 2,
+    "actors": [
+      3,
+      4
+    ],
+    "genres": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 3,
+  "fields": {
+    "name": "Natytouille",
+    "year": 2005,
+    "footage": 120,
+    "description": "In the bustling streets of Paris, amidst the aroma of freshly baked croissants and the hustle of daily life, there’s a small bistro with big dreams. Meet Naty, a spirited young chef with a flair for flavor and a heart full of culinary ambition. \"Natytouille\" follows Naty’s journey as she embarks on a quest to turn her humble bistro into a Michelin-starred restaurant. With her trusty spatula in hand and a passion for cooking that knows no bounds, Naty sets out to conquer the competitive world of haute cuisine. \r\nBut the path to culinary success is not without its challenges. Along the way, Naty must navigate the pressures of running a kitchen, fend off rivals who are eager to see her fail, and find the courage to stay true to her vision, even when the odds seem stacked against her. With the help of a ragtag team of misfit chefs, including a flamboyant pastry chef and a grumpy sous chef with a secret soft spot, Naty embarks on a gastronomic adventure that will test her skills, challenge her creativity, and ultimately prove that with passion, perseverance, and a pinch of magic, even the wildest culinary dreams can come true. Get ready to savor the flavors of friendship, love, and the joy of cooking in \"Natytouille\" – a heartwarming tale that will leave you hungry for more.",
+    "main_picture": "",
+    "director": 3,
+    "actors": [
+      2,
+      6
+    ],
+    "genres": [
+      2
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 4,
+  "fields": {
+    "name": "The Suchy. 2022",
+    "year": 2022,
+    "footage": 96,
+    "description": "In the small, remote town on the edge of civilization, something unusual begins to happen in 2022. Mysterious droughts are destroying all the crops, causing incredible anxiety among the local residents. Amidst this crisis, two distinct souls meet – a young environmental activist and a seasoned farmer. Together, they uncover that something much larger and darker than natural phenomena is behind this catastrophe. As their relationship deepens, they must face not only the natural threat but also the secrets that lie within themselves. \"The Suchy\" is a poignant story of survival, love, and the fight against invisible forces that could change the fate of humanity.",
+    "main_picture": "",
+    "director": 4,
+    "actors": [
+      1,
+      4,
+      5
+    ],
+    "genres": [
+      3,
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 5,
+  "fields": {
+    "name": "How Highonáš",
+    "year": 2001,
+    "footage": 120,
+    "description": "In the small, remote town of Highonáš, 2001 brings an unexpected crisis: mysterious droughts are devastating the local crops, including the cherished cannabis plants that the town depends on. Amidst the chaos, two unlikely heroes—a young environmental activist and a seasoned cannabis farmer—come together. As they navigate through hilarious high jinks and uncover hidden conspiracies, they realize that something far more sinister than a natural phenomenon is behind the droughts. Their journey is filled with laughter, friendship, and plenty of weed-fueled adventures, as they fight to save their beloved town and its most prized plant. \"How Highonáš\" is a comedy with a fresh, rural twist, delivering a heartwarming and uproarious tale of love, resilience, and the power of cannabis.",
+    "main_picture": "",
+    "director": 5,
+    "actors": [
+      3,
+      4,
+      6
+    ],
+    "genres": [
+      2
+    ]
+  }
+},
+{
+  "model": "filmy.movie",
+  "pk": 6,
+  "fields": {
+    "name": "Planet of the Mashas",
+    "year": 2007,
+    "footage": 128,
+    "description": "In a dystopian future, the remote town of Highonáš faces an unprecedented crisis: a series of mysterious droughts are wreaking havoc on the local cannabis crops, the lifeblood of the community. Amidst the turmoil, two unlikely allies—a young environmental activist and a seasoned cannabis farmer—uncover a shocking truth. The droughts are part of a sinister plot orchestrated by a powerful organization aiming to control the town’s lucrative weed industry.\r\nAs they delve deeper, they discover the existence of a secret society known as the Mashas, intelligent beings who have evolved from cannabis plants themselves. These sentient Mashas, with their own complex society and advanced knowledge, hold the key to the town's survival.\r\n\"Planet of the Mashas\" is a thrilling adventure that combines the humor and camaraderie of a stoner comedy with the suspense and intrigue of a sci-fi classic. As our heroes navigate this brave new world, they must forge an alliance with the Mashas to restore balance to Highonáš and secure the future of their beloved cannabis crops.",
+    "main_picture": "",
+    "director": 6,
+    "actors": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      3,
+      6,
+      7,
+      8
+    ]
+  }
+}
+]

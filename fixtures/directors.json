@@ -1,0 +1,62 @@
+[
+{
+  "model": "filmy.director",
+  "pk": 1,
+  "fields": {
+    "name": "Masa Gavr",
+    "birth_year": 2000,
+    "description": "ja",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 2,
+  "fields": {
+    "name": "Bradycardia  Bird",
+    "birth_year": 1978,
+    "description": "bird bird bird",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 3,
+  "fields": {
+    "name": "Edita Fred",
+    "birth_year": 1996,
+    "description": "",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 4,
+  "fields": {
+    "name": "Stevenson Spiel-berg",
+    "birth_year": 1989,
+    "description": "nemec",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 5,
+  "fields": {
+    "name": "Christo Nolanal",
+    "birth_year": 1998,
+    "description": "proctologist <3",
+    "main_picture": ""
+  }
+},
+{
+  "model": "filmy.director",
+  "pk": 6,
+  "fields": {
+    "name": "Jon Foie gras",
+    "birth_year": 2000,
+    "description": "a fish",
+    "main_picture": ""
+  }
+}
+]

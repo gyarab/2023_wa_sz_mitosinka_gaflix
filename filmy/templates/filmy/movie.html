@@ -1,14 +1,16 @@
 {% extends 'filmy/base.html' %}
 
-{% block 'title' %}{{ block.super }} - {{ movie.name }}{% endblock %}
+{% block 'title' %}{{ movie.name }} | {{ block.super }}{% endblock %}
 
 {% block 'content' %}
-    <h1> {{movie.name}}</h1>
-    
-    <h2> {{movie.director}}</h2>
+    <h1>{{ movie.name }}</h1>
 
-    <img class="card-img-top" src="{{movie.main_picture}} " alt="Card image cap">
-
-    <p>{{movie.description}}</p>
-
+    <h2>{{movie.director}}</h2>
+    <img src="{% if movie.main_picture %}{{movie.main_picture}}{% endif %}" alt="">
+    <p>{{ movie.description }}</p>
+    <ul>
+        <li>prvni</li>
+        <li>druhy</li>
+        <li>treti</li>
+    </ul>
 {% endblock %}
