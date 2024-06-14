@@ -7,7 +7,7 @@ source ./venv/Scripts/activate
 pip install -r requirements.txt
 
 ```
-#Start project
+# Start project
 ./manage.py migrate
 ./manage.py runserver
 
