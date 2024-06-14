@@ -3,19 +3,19 @@
   "model": "filmy.actor",
   "pk": 1,
   "fields": {
-    "name": "Sabinka Javur",
+    "name": "Roblox",
     "birth_year": 2005,
-    "description": "sabina nejlepší herečka na světě, 56 oscarů za nejlepší roli (jak male tak i female).",
-    "main_picture": ""
+    "description": "",
+    "main_picture": "Hello"
   }
 },
 {
   "model": "filmy.actor",
   "pk": 2,
   "fields": {
-    "name": "Naty Hutneni",
+    "name": "david",
     "birth_year": 2005,
-    "description": "hutnění",
+    "description": "idk",
     "main_picture": ""
   }
 },
@@ -23,9 +23,9 @@
   "model": "filmy.actor",
   "pk": 3,
   "fields": {
-    "name": "Seba Heřmánek",
+    "name": "roblox",
     "birth_year": 2005,
-    "description": "seba.",
+    "description": "dwasd.",
     "main_picture": ""
   }
 },
@@ -33,9 +33,9 @@
   "model": "filmy.actor",
   "pk": 4,
   "fields": {
-    "name": "Benzen Washington",
+    "name": "wadsdawd",
     "birth_year": 1889,
-    "description": "Wasnington D.C.????",
+    "description": "srgsfg",
     "main_picture": ""
   }
 },
@@ -43,9 +43,9 @@
   "model": "filmy.actor",
   "pk": 5,
   "fields": {
-    "name": "Meryla Streepie",
+    "name": "agrag",
     "birth_year": 2001,
-    "description": "secret woman",
+    "description": "aefaef",
     "main_picture": ""
   }
 },
@@ -53,9 +53,9 @@
   "model": "filmy.actor",
   "pk": 6,
   "fields": {
-    "name": "Shahi Rukh Khana",
+    "name": "aregadfg",
     "birth_year": 1999,
-    "description": "does not speak English",
+    "description": "EFDFe",
     "main_picture": ""
   }
 }

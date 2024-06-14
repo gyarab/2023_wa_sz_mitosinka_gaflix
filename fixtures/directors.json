@@ -3,9 +3,9 @@
   "model": "filmy.director",
   "pk": 1,
   "fields": {
-    "name": "Masa Gavr",
+    "name": "Johny",
     "birth_year": 2000,
-    "description": "ja",
+    "description": "lol",
     "main_picture": ""
   }
 },
@@ -15,7 +15,7 @@
   "fields": {
     "name": "Bradycardia  Bird",
     "birth_year": 1978,
-    "description": "bird bird bird",
+    "description": "bird ",
     "main_picture": ""
   }
 },

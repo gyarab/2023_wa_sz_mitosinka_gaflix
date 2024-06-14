@@ -4,7 +4,7 @@ from django.db import models
 class Movie(models.Model):
     name = models.CharField(max_length=300)
     year = models.PositiveSmallIntegerField(blank=True, null=True)
-    footage = models.PositiveSmallIntegerField(blank=True, null=True, help_text="in minutes")
+    footage = models.PositiveSmallIntegerField(blank=True, null=True, help_text="nekdy...")
     description = models.TextField(blank=True)
     main_picture = models.CharField(blank=True, default="", max_length = 2000)
     director = models.ForeignKey('Director', blank=True, null=True, on_delete=models.SET_NULL)
